@@ -88,3 +88,7 @@ Se evaluaron múltiples modelos de clasificación supervisada para predecir la e
 | Bosque Aleatorio (*Random Forest*)          | 0.6000                 | 0.4667     |
 
 El modelo seleccionado como el de mejor rendimiento fue el **Árbol de Decisión** (*Decision Tree*), logrando una precisión y una puntuación F1-Macro perfectas en el conjunto de prueba evaluado.
+
+# Conclusión
+
+Mediante la combinación del Modelado de Tópicos (NMF) para el etiquetado inicial de las quejas y el entrenamiento de modelos supervisados, el proyecto demostró la viabilidad de la clasificación automática de quejas, siendo el **Árbol de Decisión** el mejor modelo al alcanzar una precisión y puntuación F1-Macro perfectas (1.0000) en el conjunto de prueba.
